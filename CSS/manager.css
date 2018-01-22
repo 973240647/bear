@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+#llll{
+	width:200px;
+	height:500px;
+	border:1px solid #9F0;
+	margin-top:60px;
+	margin-left:140px;
+	float:left;
+}
+#llll a{
+	color:#FFF; 
+	height:30px;
+	display:block;
+	line-height:30px; 
+	font-size:14px; 
+	background:#F93; 
+	text-align:center; 
+	list-style:none; 
+	letter-spacing:2px;
+	text-decoration:none;
+}
+#llll a:hover{
+	cursor:pointer;
+	color:#000;
+}
+
+#rrrr{
+	width:700px;
+	height:520px;
+	margin-top:60px;
+	margin-left:400px;
+	/*border:1px solid #000;*/
+}
+table a{
+	text-decoration:none;
+	color:#000;
+}
+table a:hover{
+	cursor:pointer;
+	color:#F93;
+}
+table li{
+	list-style:none;
+}
